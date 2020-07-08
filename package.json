@@ -1,9 +1,9 @@
 {
-  "name": "zTools",
+  "name": "r-tools",
   "version": "1.0.0",
   "description": "A various tools collection.",
   "main": "index.js",
-  "repository": "https://github.com/ruiuii/zTools",
+  "repository": "https://github.com/ruiuii/r-tools",
   "author": "ruiuii",
   "license": "MIT",
   "private": false
