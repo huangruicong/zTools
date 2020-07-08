@@ -1,0 +1,10 @@
+{
+  "name": "zTools",
+  "version": "1.0.0",
+  "description": "A various tools collection.",
+  "main": "index.js",
+  "repository": "https://github.com/ruiuii/zTools",
+  "author": "ruiuii",
+  "license": "MIT",
+  "private": false
+}
